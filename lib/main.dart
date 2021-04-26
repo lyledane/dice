@@ -2,13 +2,10 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 void main() {
-  // DEMONSTRATION PURPOSES
-  // another Demonstration Purposes
-  // TESTING
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.red,
         appBar: AppBar(
           title: Text('Dice Activity'),
           backgroundColor: Colors.blue,
