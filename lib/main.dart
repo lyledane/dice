@@ -11,7 +11,7 @@ void main() {
         backgroundColor: Colors.blue,
         appBar: AppBar(
           title: Text('Dice Activity'),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.blue,
         ),
         body: DicePage(),
       ),
