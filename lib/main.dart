@@ -2,12 +2,13 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 void main() {
+  // DEMONSTRATION PURPOSES
   return runApp(
     MaterialApp(
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Dice Activity'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
