@@ -5,9 +5,9 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.grey,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Dice'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
